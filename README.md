@@ -25,16 +25,16 @@
       3. JOptionPane merupakan kelas yang digunakan untuk input dan output data berbasis GUI swing yaitu tampilan berupa dialog box.
  
 6. Untuk latihan 1 dan latihan 2 merupakan contoh penggunaan Kelas Scanner yang sebelum digunakan masing - masing program melakukan import sebelum digunakan yang          membedakan dari kedua program tersebut yaitu :
-      A. Untuk latihan 1 terdapat beberapa tipe data yaitu String, Int dan Float. Untuk membaca tipe data String menggunakan nextLine();, Int menggunakan nextInt();  
+      1. Untuk latihan 1 terdapat beberapa tipe data yaitu String, Int dan Float. Untuk membaca tipe data String menggunakan nextLine();, Int menggunakan nextInt();  
          dan Float menggunakan nextFloat();.
-      B. Untuk latihan 2 terdapat variabel dengan tipe data float lalu membaca tipe data tersebut dan setelah itu dihitung atau bisa dibilang program ini adalah 
+      2. Untuk latihan 2 terdapat variabel dengan tipe data float lalu membaca tipe data tersebut dan setelah itu dihitung atau bisa dibilang program ini adalah 
          Program perhitungan menggunakan Kelas Scanner.
          
 7. Untuk latihan 3 dan 4 merupakan contoh penggunaan Kelas BufferedReader yang sama dengan halnya latihan 1 dan 2 sebelum digunakan program melakukan import yang 
    membedakan dari kedua program tersebut yaitu :
-      A. Untuk latihan 3 merupakan program untuk membaca tipe data String dengan Kelas BufferedReader dan untuk membacanya dengan menggunakan readLine(); didalam try{}
+      1. Untuk latihan 3 merupakan program untuk membaca tipe data String dengan Kelas BufferedReader dan untuk membacanya dengan menggunakan readLine(); didalam try{}
          dan untuk catch (IOExeption e) {} IOException adalah untuk membaca apakah inputan itu error atau tidak jika terjadi erorr maka akan dieksekusi ke method yang          bersangkutan.
-      B. Untuk latihan 4 merupakan program untuk menghitung dan membaca tipe data float atau angka pada Kelas BufferedReader, untuk KelasBufferedReader dalam proses  
+      2. Untuk latihan 4 merupakan program untuk menghitung dan membaca tipe data float atau angka pada Kelas BufferedReader, untuk KelasBufferedReader dalam proses  
          perhitungan maka perlu di konversikan terlebih dahulu dari String menjadi tipe data yang diinginkan contoh tipe data float maka cara mengkonversinya 
          menggunakan Float.parseFloat(nama_variabel) selajutnya baru bisa dihitung.
 
